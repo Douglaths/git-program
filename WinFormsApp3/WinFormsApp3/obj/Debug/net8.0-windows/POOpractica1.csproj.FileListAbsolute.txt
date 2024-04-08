@@ -1,0 +1,16 @@
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\POOpractica1.exe
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\POOpractica1.deps.json
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\POOpractica1.runtimeconfig.json
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\POOpractica1.dll
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\POOpractica1.pdb
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\POOpractica1.csproj.GenerateResource.cache
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\POOpractica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\POOpractica1.AssemblyInfoInputs.cache
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\POOpractica1.AssemblyInfo.cs
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\POOpractica1.csproj.CoreCompileInputs.cache
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\POOpractica1.dll
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\POOpractica1.dll
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\POOpractica1.pdb
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\POOpractica1.genruntimeconfig.cache
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\POOpractica1.dll
+C:\Users\Douglaths\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\POOpractica1.Form1.resources

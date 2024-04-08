@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qneM5onxBbqiE4mZPZt0M0pdYZcVNto1t3fSV0UgyFpoOwLXlpmPVFCeYEKTUZ9njCOEstYCOMo9fvf5gH+K7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Douglaths\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglaths\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

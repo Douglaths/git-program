@@ -1,0 +1,16 @@
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\bin\Debug\net8.0-windows\TB_Conexion_a_Datos.exe
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\bin\Debug\net8.0-windows\TB_Conexion_a_Datos.deps.json
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\bin\Debug\net8.0-windows\TB_Conexion_a_Datos.runtimeconfig.json
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\bin\Debug\net8.0-windows\TB_Conexion_a_Datos.dll
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\bin\Debug\net8.0-windows\TB_Conexion_a_Datos.pdb
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\TBDatos.Form1.resources
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\TB_Conexion_a_Datos.csproj.GenerateResource.cache
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\TB_Conexion_a_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\TB_Conexion_a_Datos.AssemblyInfoInputs.cache
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\TB_Conexion_a_Datos.AssemblyInfo.cs
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\TB_Conexion_a_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\TB_Conexion_a_Datos.dll
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\refint\TB_Conexion_a_Datos.dll
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\TB_Conexion_a_Datos.pdb
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\TB_Conexion_a_Datos.genruntimeconfig.cache
+C:\Users\Douglaths\source\repos\TBDatos\TBDatos\obj\Debug\net8.0-windows\ref\TB_Conexion_a_Datos.dll
