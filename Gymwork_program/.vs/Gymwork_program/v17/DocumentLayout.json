@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6772DEB2-DFD1-496D-947D-25BE5869E4D1}|Datos\\Datos.csproj|c:\\users\\douglaths\\desktop\\git-program\\gymwork_program\\datos\\connectionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6772DEB2-DFD1-496D-947D-25BE5869E4D1}|Datos\\Datos.csproj|solutionrelative:datos\\connectionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01500991-24DA-4843-B83D-4CD8FE1DBBE7}|Negocios\\Negocios.csproj|c:\\users\\douglaths\\desktop\\git-program\\gymwork_program\\negocios\\connectionsqlnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01500991-24DA-4843-B83D-4CD8FE1DBBE7}|Negocios\\Negocios.csproj|solutionrelative:negocios\\connectionsqlnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2DEDA7-C7EF-4204-8F26-E36A9B08B453}|Gymwork_program\\Gymwork_program.csproj|c:\\users\\douglaths\\desktop\\git-program\\gymwork_program\\gymwork_program\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2DEDA7-C7EF-4204-8F26-E36A9B08B453}|Gymwork_program\\Gymwork_program.csproj|solutionrelative:gymwork_program\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2DEDA7-C7EF-4204-8F26-E36A9B08B453}|Gymwork_program\\Gymwork_program.csproj|c:\\users\\douglaths\\desktop\\git-program\\gymwork_program\\gymwork_program\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A2DEDA7-C7EF-4204-8F26-E36A9B08B453}|Gymwork_program\\Gymwork_program.csproj|solutionrelative:gymwork_program\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D27C5A-14A9-454C-A5F5-33C1D736E957}|entidades\\entidades.csproj|c:\\users\\douglaths\\desktop\\git-program\\gymwork_program\\entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D27C5A-14A9-454C-A5F5-33C1D736E957}|entidades\\entidades.csproj|solutionrelative:entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6772DEB2-DFD1-496D-947D-25BE5869E4D1}|Datos\\Datos.csproj|c:\\users\\douglaths\\desktop\\git-program\\gymwork_program\\datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6772DEB2-DFD1-496D-947D-25BE5869E4D1}|Datos\\Datos.csproj|solutionrelative:datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6772DEB2-DFD1-496D-947D-25BE5869E4D1}|Datos\\Datos.csproj|c:\\users\\douglaths\\desktop\\git-program\\gymwork_program\\datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6772DEB2-DFD1-496D-947D-25BE5869E4D1}|Datos\\Datos.csproj|solutionrelative:datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Gymwork_program\\Form1.cs",
+              "RelativeDocumentMoniker": "Gymwork_program\\Form1.cs",
+              "ToolTip": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Gymwork_program\\Form1.cs [Design]",
+              "RelativeToolTip": "Gymwork_program\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:15:36.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Gymwork_program\\Form1.cs",
+              "RelativeDocumentMoniker": "Gymwork_program\\Form1.cs",
+              "ToolTip": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Gymwork_program\\Form1.cs",
+              "RelativeToolTip": "Gymwork_program\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:38:36.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Datos\\ConnectionSQL.cs",
+              "RelativeDocumentMoniker": "Datos\\ConnectionSQL.cs",
+              "ToolTip": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Datos\\ConnectionSQL.cs",
+              "RelativeToolTip": "Datos\\ConnectionSQL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:54:27.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionSQLnn.cs",
+              "DocumentMoniker": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Negocios\\ConnectionSQLnn.cs",
+              "RelativeDocumentMoniker": "Negocios\\ConnectionSQLnn.cs",
+              "ToolTip": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Negocios\\ConnectionSQLnn.cs",
+              "RelativeToolTip": "Negocios\\ConnectionSQLnn.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:35:10.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Datos",
+              "DocumentMoniker": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Datos\\Datos.csproj",
+              "RelativeDocumentMoniker": "Datos\\Datos.csproj",
+              "ToolTip": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Datos\\Datos.csproj",
+              "RelativeToolTip": "Datos\\Datos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T07:35:44.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Datos\\Class1.cs",
+              "RelativeDocumentMoniker": "Datos\\Class1.cs",
+              "ToolTip": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\Datos\\Class1.cs",
+              "RelativeToolTip": "Datos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:32:17.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\entidades\\Class1.cs",
+              "RelativeDocumentMoniker": "entidades\\Class1.cs",
+              "ToolTip": "C:\\Users\\Douglaths\\Desktop\\git-program\\Gymwork_program\\entidades\\Class1.cs",
+              "RelativeToolTip": "entidades\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:31:28.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

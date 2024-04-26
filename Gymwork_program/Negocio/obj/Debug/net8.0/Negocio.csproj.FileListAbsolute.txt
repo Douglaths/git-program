@@ -1,0 +1,16 @@
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\Negocio.sourcelink.json
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\bin\Debug\net8.0\Datos.dll
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\bin\Debug\net8.0\Datos.pdb
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Negocio\obj\Debug\net8.0\ref\Negocio.dll
