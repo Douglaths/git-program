@@ -3,7 +3,6 @@ C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\bin\Debug
 C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\bin\Debug\net8.0-windows\Gymwork_program.runtimeconfig.json
 C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\bin\Debug\net8.0-windows\Gymwork_program.dll
 C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\bin\Debug\net8.0-windows\Gymwork_program.pdb
-C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\obj\Debug\net8.0-windows\Gymwork_program.Form1.resources
 C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\obj\Debug\net8.0-windows\Gymwork_program.csproj.GenerateResource.cache
 C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\obj\Debug\net8.0-windows\Gymwork_program.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\obj\Debug\net8.0-windows\Gymwork_program.AssemblyInfoInputs.cache
@@ -71,3 +70,7 @@ C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\bin\Debug
 C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\bin\Debug\net8.0-windows\Datos.pdb
 C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\bin\Debug\net8.0-windows\Negocios.dll
 C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\bin\Debug\net8.0-windows\Negocios.pdb
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\obj\Debug\net8.0-windows\Gymwork_program.VentanaPrincipal.resources
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\obj\Debug\net8.0-windows\Gymwork_program.LoginGymwork.resources
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\obj\Debug\net8.0-windows\Gymwork_program.Users.resources
+C:\Users\Douglaths\Desktop\git-program\Gymwork_program\Gymwork_program\obj\Debug\net8.0-windows\Gymwork_program.stock.resources

@@ -2,11 +2,11 @@ using Negocios;
 
 namespace Gymwork_program
 {
-    public partial class Form1 : Form
+    public partial class LoginGymwork : Form
     {
         ConnectionSQLnn cn = new ConnectionSQLnn();
 
-        public Form1()
+        public LoginGymwork()
         {
             InitializeComponent();
         }
@@ -22,6 +22,9 @@ namespace Gymwork_program
             if (cn.conSQL(txtUser.Text, txtPassword.Text) == 1)
             {
                 MessageBox.Show("The user was been founded.");
+                this.Hide();
+                VentanaPrincipal v1= new VentanaPrincipal();
+                v1.Show();
             }
             else
             {

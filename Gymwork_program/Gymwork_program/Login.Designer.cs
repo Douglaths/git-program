@@ -1,6 +1,6 @@
 ﻿namespace Gymwork_program
 {
-    partial class Form1
+    partial class LoginGymwork
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LoginGymwork));
             txtUser = new TextBox();
             txtPassword = new TextBox();
             label1 = new Label();
@@ -113,7 +113,7 @@
             pictureBox1.TabIndex = 7;
             pictureBox1.TabStop = false;
             // 
-            // Form1
+            // LoginGymwork
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -128,10 +128,9 @@
             Controls.Add(txtUser);
             Icon = (Icon)resources.GetObject("$this.Icon");
             MinimumSize = new Size(400, 400);
-            Name = "Form1";
+            Name = "LoginGymwork";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Login";
-            WindowState = FormWindowState.Maximized;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
